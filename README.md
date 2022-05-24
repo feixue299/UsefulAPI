@@ -9,3 +9,4 @@
 
 ### 猫图
 - https://cataas.com/cat
+- https://api.thecatapi.com/v1/images/search
